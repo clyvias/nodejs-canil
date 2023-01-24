@@ -1,12 +1,12 @@
 # nodejs-canil
 
-proyecto creado para explorar Nodejs con Typescript
+Simple project to practice nodejs with typescript
 
-### Prerequisitos globales
+### Pre requisites
 `npm i -g nodemon typescript ts-node`
 
-### Instalación
+### Inicialization
 `npm install`
 
-### Para inicializar el proyecto
+### Start the project
 `npm run start-dev`
